@@ -1,16 +1,9 @@
-# mad_exp6
+# Experiment No 6: Routes and Consume API
+Output:
 
-A new Flutter project.
+![r2](https://github.com/rohan0110/MAD_LAB_Exp6/assets/110125066/8c1f4007-4e5c-404a-84ee-2c9249a737d6)
 
-## Getting Started
+![r1](https://github.com/rohan0110/MAD_LAB_Exp6/assets/110125066/83e4d14d-c01e-4c60-ae60-2e1f499e61d0)
 
-This project is a starting point for a Flutter application.
+![r3](https://github.com/rohan0110/MAD_LAB_Exp6/assets/110125066/3ffb05ba-a792-42d0-8e7f-ce34f4268f4e)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
